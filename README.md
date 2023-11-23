@@ -1,1 +1,1 @@
-"# Kaggle_Store_Sales" 
+This is a side project for performing the XGBoost algorithm.
